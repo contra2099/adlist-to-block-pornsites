@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 11 March 2021 02:08:43 (UTC)
+# Date: 15 March 2021 20:45:43 (UTC)
 # Number of unique domains: 1.781
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Fetch the latest version of this file: 
 # Project home page: 
 # Project releases: 
 #
