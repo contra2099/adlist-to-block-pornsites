@@ -17,7 +17,7 @@
 0.0.0.0 galacticcentral.org
 0.0.0.0 The-monkey-house.com
 0.0.0.0 Extratorrent.com
-0.0.0.0 Kinozal.tv
+0.0.0.0 kinozal.tv
 0.0.0.0 Torrentz.eu
 0.0.0.0 Thetorrentsource.org
 0.0.0.0 Bt-chat.com
