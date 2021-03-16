@@ -24,7 +24,7 @@
 0.0.0.0 trackerzone.co.uk
 0.0.0.0 tracker.aladar.com
 0.0.0.0 isohunt.com
-0.0.0.0 Rutracker.org
+Rutracker.org
 0.0.0.0 lostfilm.tv
 0.0.0.0 Btscene.com
 0.0.0.0 Zoozle.org
