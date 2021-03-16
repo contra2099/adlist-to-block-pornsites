@@ -1,16 +1,4 @@
-# Title: torrent/hosts
-#
-# This hosts file is a merged collection of hosts from reputable sources,
-# with a dash of crowd sourcing via GitHub
-#
-# Date: 15 March 2021 20:45:43 (UTC)
-# Number of unique domains: 1.782
-#
-# Fetch the latest version of this file: 
-# Project home page: 
-# Project releases: 
-#
-# ===============================================================
+######## TESTE########
 
 
 0.0.0.0 culturainglesa.com.br
