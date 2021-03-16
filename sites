@@ -1,3 +1,14 @@
+# Custom host records are listed here.
+
+
+#=====================================
+
+# Testes
+
+
 0.0.0.0 globo.com
-0.0.0.0 culturainglesa.com.br
 0.0.0.0 terra.com.br
+0.0.0.0 culturainglesa.com.br
+
+
+# 0.0.0.0 example.com
