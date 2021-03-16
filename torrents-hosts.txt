@@ -1,5 +1,5 @@
 ######## TESTE########
 
 
-0.0.0.0 culturainglesa.com.br
+0.0.0.0 www.culturainglesa.com.br
 0.0.0.0 globo.com
