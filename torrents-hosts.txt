@@ -16,7 +16,6 @@
 0.0.0.0 ThePirateBay.org
 0.0.0.0 torrentgames.info
 0.0.0.0 galacticcentral.org
-0.0.0.0 The-monkey-house.com
 0.0.0.0 Extratorrent.com
 0.0.0.0 kinozal.tv
 0.0.0.0 Torrentz.eu
