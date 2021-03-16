@@ -13,17 +13,17 @@
 # ===============================================================
 
 
-0.0.0.0 ThePirateBay.org
+0.0.0.0 thePirateBay.org
 0.0.0.0 torrentgames.info
 0.0.0.0 galacticcentral.org
-0.0.0.0 Extratorrent.com
+0.0.0.0 extratorrent.com
 0.0.0.0 kinozal.tv
-0.0.0.0 Torrentz.eu
-0.0.0.0 Bt-chat.com
-0.0.0.0 Btiteam.org
-0.0.0.0 Trackerzone.co.uk
-0.0.0.0 Tracker.aladar.com
-0.0.0.0 Isohunt.com
+0.0.0.0 torrentz.eu
+0.0.0.0 bt-chat.com
+0.0.0.0 btiteam.org
+0.0.0.0 trackerzone.co.uk
+0.0.0.0 tracker.aladar.com
+0.0.0.0 isohunt.com
 0.0.0.0 Rutracker.org
 0.0.0.0 lostfilm.tv
 0.0.0.0 Btscene.com
