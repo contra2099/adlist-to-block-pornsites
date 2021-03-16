@@ -1485,6 +1485,7 @@
 0.0.0.0 spirit-t3am.org
 0.0.0.0 sportbit.org
 0.0.0.0 swemovie.se
+0.0.0.0 shoppingwaves.net
 0.0.0.0 t2hbit.com
 0.0.0.0 thebtclub.com
 0.0.0.0 the-nextstep.info
