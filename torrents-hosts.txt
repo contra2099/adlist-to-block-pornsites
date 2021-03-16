@@ -167,6 +167,9 @@
 0.0.0.0 Themixingbowl.org
 0.0.0.0 rarbg.com
 0.0.0.0 rarbg.to
+0.0.0.0 rarbg.to/index80.php
+0.0.0.0 rarbgproxied.org
+0.0.0.0 https://rarbgproxied.org/torrents.php
 0.0.0.0 Deadfrog.us
 0.0.0.0 Ilcorsaronero.info
 0.0.0.0 Diggnation.org
