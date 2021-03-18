@@ -1,15 +1,15 @@
 #####################################################################
-#		This list was created in order to block access to torrent       #
-#   sharing sites. Many of these sites only contain very poor       #
-#		peers.                                                          #
-#                                                                   #
-#   Virus, malwares, fraud, identity theft, ransonware,             #
-#	  if you are also tired of having this type of torrent            #
-#	  download problem on your network, please                        #
-#	  consider using this list in your pi-hole.                       #	
-#                                                                   #
-#		If you want a torrent domain to be added to this list please    #
-#   send an email with or domains to contra2099@gmail.com			      #															                                                                  
+ 		This list was created in order to block access to torrent       
+    sharing sites. Many of these sites only contain very poor       
+		peers.                                                          
+                                                                   
+    Virus, malwares, fraud, identity theft, ransonware,             
+	  if you are also tired of having this type of torrent            
+	  download problem on your network, please                        
+	  consider using this list in your pi-hole.                      	
+                                                                   
+	  If you want a torrent domain to be added to this list please    
+    send an email with or domains to contra2099@gmail.com			      															                                                                  
 #####################################################################
 
 
